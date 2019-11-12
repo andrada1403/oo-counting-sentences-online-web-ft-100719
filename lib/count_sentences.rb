@@ -37,6 +37,6 @@ class String
         end
       end
     end
-    sentence_array.length
   end
+
 end
